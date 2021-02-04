@@ -5,7 +5,7 @@ Linear provides **webhooks** which allow you to receive HTTP push notifications 
 Webhooks are specific to a `Team`, so you can configure webhooks to satisfy the needs of each team in your organization. Webhook updates are currently supported for following models:
 
 - `**Issue**`
-- `**Commens**`
+- `**Comments**`
 - `**Reaction**` (comment emoji reactions)
 
 ## How does a Webhook work?
